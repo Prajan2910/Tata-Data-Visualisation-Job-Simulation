@@ -15,7 +15,7 @@
 4) How do you envision the alignment of our business strategy with emerging market trends over the next 3-5 years?
         Long-term strategic planning and vision.
 
-##Questions for the Chief Marketing Officer (CMO)
+## Questions for the Chief Marketing Officer (CMO)
 
 1) What current marketing campaigns are yielding the highest ROI, and how are we measuring success?
         Emphasis on quantitative results of marketing efforts.
