@@ -1,4 +1,4 @@
-# Tata-s-Data-Visualisation-Job-Simulation
+# Tata-Data-Visualisation-Job-Simulation
 
 ## Task 1: Framing the Business Scenario
 ## Questions for the Chief Executive Officer (CEO)
